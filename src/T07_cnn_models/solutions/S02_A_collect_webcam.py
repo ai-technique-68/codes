@@ -3,7 +3,7 @@ import os
 
 # Change this
 CLASS_LIST = ["class_1", "class_2", "class_3"]
-BASE_PATH = "src/T04_cnn_models/dataset"
+BASE_PATH = "src/T07_cnn_models/dataset"
 
 
 def get_user_choice(options, prompt):
