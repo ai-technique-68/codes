@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Change this
-CLASS_LIST = ["class_1", "class_2", "class_3"]
+CLASS_LIST = ["ta", "cap", "earth", "nuk", "pooh"]
 BASE_PATH = "src/T07_cnn_models/dataset"
 
 
